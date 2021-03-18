@@ -1,0 +1,11 @@
+#Fri Jun 19 11:34:24 CEST 2020
+nick2=basia
+nick1=julka
+score2=1054
+score3=1038
+score4=1022
+score5=1017
+score1=1077
+nick5=ania
+nick4=kasia
+nick3=marta

@@ -1,0 +1,15 @@
+
+
+ ○ Control arrows:
+
+         ←   turn left              ↑     up           →   turn right
+
+
+ ○  Correct landing: using control arrows land carefully on
+
+    a flat surface to pass the level
+
+ ○  Petrol: rocket control causes fuel loss
+
+ ○  Number of lives: after losing 5 lives you lose the game
+

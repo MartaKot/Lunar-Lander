@@ -1,0 +1,12 @@
+xSize=800
+ySize=600
+Vx=10
+Vy=10
+properVx=9
+properVy=9
+maxVy=10
+maxVx=10
+fuelAmount=50
+numberOfLevels=3
+numberOfRockets=5
+bonusPerRocket=50

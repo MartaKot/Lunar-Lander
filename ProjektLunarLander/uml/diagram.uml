@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="282.0" y="639.0">HelpWindow</node>
+    <node x="559.0" y="0.0">GameWindow</node>
+    <node x="326.0" y="0.0">FileParser</node>
+    <node x="53.5" y="495.0">GameBoard.AnimationTimerTask</node>
+    <node x="0.0" y="635.0">StartWindow</node>
+    <node x="0.0" y="0.0">GameBoard</node>
+    <node x="843.0" y="635.0">Main</node>
+    <node x="562.0" y="635.0">BestScoreWindow</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="GameBoard.AnimationTimerTask" target="GameBoard">
+      <point x="0.0" y="-47.5" />
+      <point x="0.0" y="222.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="403.0" y="643.0" />
+  <SelectedNodes>
+    <node>HelpWindow</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
